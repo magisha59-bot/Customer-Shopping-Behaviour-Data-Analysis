@@ -1,11 +1,12 @@
-Customer Shopping Behavior Analysis
+**Customer Shopping Behavior Analysis**
+
 Project Overview
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The goal of the analysis is to identify patterns in customer spending, product preferences, subscription behavior, and purchase frequency to support data-driven business decisions.
 
 The project combines Python for data cleaning and exploration, SQL for business analysis, and Power BI for visualization, demonstrating an end-to-end data analytics workflow.
 
-Dataset Information
+**Dataset Information**
 
 Total Records: 3,900 transactions
 Total Columns: 18 features
@@ -232,7 +233,7 @@ Customer Segmentation
 
 Business KPI Analysis
 
-Project Structure
+**Project Structure**
 Customer-Shopping-Behavior-Analysis
 │
 ├── data
@@ -248,6 +249,6 @@ Customer-Shopping-Behavior-Analysis
 │   └── dashboard.pbix
 │
 └── README.md
-Conclusion
-
+**Conclusion
+**
 This project demonstrates a complete end-to-end data analytics workflow, from data cleaning and transformation to SQL-based business analysis and interactive dashboard development. The insights generated can help businesses optimize marketing strategies, improve customer retention, and increase revenue through targeted decision-making.
